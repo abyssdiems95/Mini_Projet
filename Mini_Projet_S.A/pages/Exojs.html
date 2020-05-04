@@ -1,0 +1,42 @@
+<html>
+
+    <head>
+<meta charset="utf-8">
+<title> JS  Code</title>
+    </head>
+
+<body>
+<h1>Hello</h1>
+<p>Saisissez Votre numéro</p>
+<form method="POST">
+    <div id="inputs">
+        <div class="row">
+<input type="text">
+<button type="button" onclick="onAddInput">+</button><br><br>
+</div>
+
+ 
+
+
+    </div>
+
+</form>
+
+<script>
+function onAddInput(){
+var divInputs = document.getElementById('inputs');
+var newInput = document.createElement('div');
+newInput.innerHTML =`  <input type="text">
+    <button type="button">X</button>`;
+divInputs.appendChild(newInput);
+}
+
+
+</script>
+
+</body>
+
+
+
+
+</html>
