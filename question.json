@@ -1,0 +1,65 @@
+[
+    {
+        "question": "Lebron James meilleur ke curry",
+        "points": "5",
+        "choix": "multiple",
+        "reponse": {
+            "1": "Oui",
+            "2": "Non"
+        },
+        "rep": {
+            "1": "1"
+        }
+    },
+    {
+        "question": "Joueur de basket",
+        "points": "5",
+        "choix": "multiple",
+        "reponse": {
+            "1": "Lebron",
+            "2": "Messi"
+        },
+        "rep": {
+            "1": "1"
+        }
+    },
+    {
+        "question": "Curry in the house",
+        "points": "3",
+        "choix": "simple",
+        "reponses": {
+            "1": "Yes",
+            "2": "Noooo"
+        },
+        "bonnereponse": "2"
+    },
+    {
+        "question": "Couleur drapeau Senegal",
+        "points": "56",
+        "choix": "multiple",
+        "reponse": {
+            "1": "Vert",
+            "2": "Rose",
+            "3": "Bleu",
+            "4": "Jaune",
+            "5": "Rouge"
+        },
+        "rep": {
+            "1": "1",
+            "4": "4",
+            "5": "5"
+        }
+    },
+    {
+        "question": "se marier avec ?",
+        "points": "1000",
+        "choix": "texte",
+        "choixtext": "Non"
+    },
+    {
+        "question": "se marier pour?",
+        "points": "1000",
+        "choix": "texte",
+        "choixtext": "Non"
+    }
+]

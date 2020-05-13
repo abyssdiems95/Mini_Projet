@@ -1,0 +1,16 @@
+[
+    {
+        "nom": "Nom",
+        "prenom": "Prenom",
+        "login": "Login",
+        "password": "Password",
+        "Confirmer Password": null
+    },
+    {
+        "nom": "Nom",
+        "prenom": "Prenom",
+        "login": "Login",
+        "password": "Password",
+        "ConfirmerPassword": "ConfirmerPassword"
+    }
+]
